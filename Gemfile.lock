@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    display_content (0.1.0)
+    display_content (1.0.0)
 
 GEM
   remote: https://rubygems.org/
