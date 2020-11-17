@@ -10,7 +10,8 @@ module DisplayContent
   <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Content to HTML</title>
+    <title>DisplayContent gem output</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <%= @content %>
